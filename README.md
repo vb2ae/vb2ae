@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**vb2ae/vb2ae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Caliburn.Micro, OpenWeatherMap.Standard, AstronomyPictureOfTheDay, ClientNoSqlDb, and vb2ae.ServiceLocator.MSDependencyInjection.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Working on increasing the Test coverage on all my repos that produce a nuget package
+- 🔭 I’m currently working on updating the dotnet-code-coverage-badge github action to use latest version of Node and update the code to not use The `set-output` command
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning the Uno Platform
+- 🌱 I’m currently learning how to create an EntityFramework Provider by making one for ClientNoSqlDB
+- 
+- 🤔 I’m looking for help with code reviews on the Caliburn.Micro project
+
+- ⚡ Fun fact: We are close to being able to release Caliburn.Micro V5
+- ⚡ Fun fact: I usually speak at the Orlando Code Camp
+
