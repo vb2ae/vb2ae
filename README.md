@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I’m [Your Name], a passionate developer dedicated to creating impactful software. Here's what I've been up to:
+I’m Ken Tucker, a passionate developer dedicated to creating impactful software. Here's what I've been up to:
 
 ### 🔭 Current Projects
 - **[Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)**: Powerful MVVM framework for WPF, UWP, and more.
