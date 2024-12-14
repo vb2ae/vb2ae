@@ -2,6 +2,8 @@
 
 I’m Ken Tucker, a passionate developer dedicated to creating impactful software. Here's what I've been up to:
 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vb2ae&theme=midnight_purple)   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vb2ae&hide=Html,Markdown&theme=midnight_purple)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vb2ae&theme=midnight_purple&hide_border=true)](https://git.io/streak-stats) 
+  
 ### 🔭 Current Projects
 - **[Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)**: Powerful MVVM framework for WPF, UWP, and more.
 - **[OpenWeatherMap.Standard](https://github.com/ken-tucker/OpenWeatherMap.Standard)**: .NET Standard library for OpenWeatherMap API.
@@ -32,5 +34,9 @@ I’m Ken Tucker, a passionate developer dedicated to creating impactful softwar
 - [Email](mailto:vb2ae@live.com)
 - [LinkedIn](https://linkedin.com/in/ken-tucker-51786a4)
 - [Twitter](https://twitter.com/vb2ae)
+
+
+
+  
   
 Feel free to reach out if you want to collaborate or discuss any of these projects!
